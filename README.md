@@ -19,6 +19,8 @@
    Para otimizar um sistema de digital twin usando Python, você pode focar em três áreas principais: coleta e processamento de dados, modelagem e simulação, e otimização.
 4. Simulação: Crie um modelo que simula o comportamento do sistema real. Por exemplo, use simpy para simulações de eventos discretos.
 
+![](https://github.com/ToltalTouch/Estudo-Digital_twin/blob/main/img/licensed-image.jpg)
+
 ## Otimização
 
 1. Otimização Matemática: Use bibliotecas como ```SciPy``` para resolver problemas de otimização, como encontrar os parâmetros ideais para maximizar a eficiência ou minimizar os custos.
