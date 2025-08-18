@@ -6,6 +6,9 @@
 - pandas;
 - numpy;
 ---
+
+## Video aulas:
+- https://www.youtube.com/watch?v=Z6zSFJU3Sps
 # Passo a passo
 
 ## Coleta e processamento
